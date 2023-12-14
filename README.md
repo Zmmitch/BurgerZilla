@@ -7,7 +7,12 @@ The website empowers users by allowing them to create personalized accounts, pro
 
 
 
-C:\Users\zach5\OneDrive\Desktop\Images\burgerzilla
+
+Hamburgers:
+![part1](https://github.com/Zmmitch/BurgerZilla/assets/67671578/5ba852a5-62e9-48ae-b869-d68a2496d812)
+
+
+
 
 
 
