@@ -13,6 +13,16 @@ Hamburgers:
 
 
 
+Sides
+![part 2](https://github.com/Zmmitch/BurgerZilla/assets/67671578/e3704d6a-b897-47b4-9855-f2e5d2ca20cf)
+
+Milkshakes
+Sides![part3](https://github.com/Zmmitch/BurgerZilla/assets/67671578/ec5fb6ea-1f49-431c-b9ec-13d216a89a23)
+
+
+
+
+
 
 
 
